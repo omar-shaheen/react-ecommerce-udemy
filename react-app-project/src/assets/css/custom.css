@@ -6,3 +6,7 @@
 @import "common.css";
 @import "button.css";
 @import "Footer.css";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}

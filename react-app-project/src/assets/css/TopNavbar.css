@@ -1,0 +1,31 @@
+.navbar {
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #fff;
+  box-shadow: 0 0 8px 0 #535252;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar i {
+  color: #333;
+}
+
+.cart-btn {
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 20px !important;
+  border: 0.5px solid #af1e4a !important;
+  background-color: #af1e4a !important;
+  text-decoration: none;
+}
+.cart-btn:hover {
+  border: 0.5px solid #23af1e !important;
+  background-color: #23af1e !important;
+}
+
+.user-icon {
+  font-size: 25px;
+  color: #af1e4a;
+  margin-right: 15px;
+  margin-left: 10px;
+}
